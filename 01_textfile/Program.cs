@@ -22,11 +22,14 @@ Console.WriteLine(sentences[0]);
    and 3 to 8 random latin words followed by two new line characters \n\n
 
 3. Make a firstline header on the book with your name as author. The header should be captial characters.
+   Add an ISBN numer to the book, assuming an isbn number is a GUID
 
    Below is a book example with two paragraph:
 
    NISL PRETIUM FUSCE ID VELIT
    By Martin Lenart
+   
+   ISBN: 6298C7B6-2769-4A84-B802-81492B333B3C
 
    Chapter 1: Nec ultrices dui sapien eget
 
